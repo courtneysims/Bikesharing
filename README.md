@@ -2,7 +2,7 @@
 
 ## Overview
 
-The project uses data from the NYC Citi Bike Share program. The purpose of the analysis is to determine the viability of implementing a similar program in Des Moines, Iowa. Visualizations of the users of the program allow for a more in-depth understanding of the NYC Citi Bike Share program to assist in a possible business pitch to investors.
+The project uses data from the NYC Citi Bike Share program. The purpose of the analysis is to determine the viability of implementing a similar program in Des Moines, Iowa. Visualizations of the users of the program allow for a more in-depth understanding of the NYC Citi Bike Share program to assist in a possible business proposal.
 
 
 ## Results
